@@ -1,0 +1,42 @@
+body {
+    background-color:rgb(35 39 47);
+    text-align: center;
+}
+
+.LoginInterface{
+    text-align:center;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-top: 15%;
+}
+
+.Form{
+    height: 30px;
+    margin:0 auto; 
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.Form>input {
+    font-size:20px;
+}
+
+input[type="submit"] {
+    display:block; 
+    width:10%; 
+    margin:20px auto; 
+    position:relative;
+    background-color: #6c00b4; 
+    border:none;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+}
+
+form{
+    width:100%;
+}
